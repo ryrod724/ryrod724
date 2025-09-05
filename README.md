@@ -1,7 +1,7 @@
 <h2><span style="color: orange;">About Me</span></h2>
 
-- 🎓 Applied Mathematics and Computer Science student @ **Caltech**  
-- 🧠 Passionate about **Machine Learning**, **Stochastic Processes**, & **Software Engineering**  
+- 🎓 Applied & Computational Mathematics student @ **Caltech**  
+- 🧠 Interested in **Probability Theory**, **Discrete Mathematics**, & **Machine Learning**  
 - 💻 Currently **Machine Learning Engineer @ Nuggy**  
 
 <h2><span style="color: orange;">Skills</span></h2>
