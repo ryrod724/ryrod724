@@ -1,8 +1,9 @@
 <h2><span style="color: orange;">About Me</span></h2>
 
 - 🎓 Applied and Computational Mathematics student @ **Caltech**  
-- 🧠 Interested in **Probability Theory**, **Discrete Mathematics**, & **Machine Learning**  
-- 💻 Currently **Machine Learning Engineer @ Nuggy**  
+- 🧠 Interested in **Probability Theory**, **Discrete Mathematics**, & **Machine Learning**
+- 🧮 Current **Graph Theory Researcher @ Caltech**
+- 💻 Previous **Machine Learning Engineer @ Nuggy**  
 
 <h2><span style="color: orange;">Skills</span></h2>
 
