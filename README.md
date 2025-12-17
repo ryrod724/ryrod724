@@ -8,7 +8,7 @@
 <h2><span style="color: orange;">Skills</span></h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,java,js,c,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,r,matlab,java,js,html,css" />
 </p>
 
 
