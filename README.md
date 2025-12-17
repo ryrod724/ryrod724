@@ -3,7 +3,7 @@
 - 🎓 Applied and Computational Mathematics student @ **Caltech**  
 - 🧠 Interested in **Probability Theory**, **Discrete Mathematics**, & **Machine Learning**
 - 🧮 Current **Researcher @ Caltech**
-- 💻 Previous **Machine Learning Engineer @ Nuggy** and **Stochastic Processes Researcher @ CSULB**
+- 💻 Previous **Machine Learning Engineer @ Nuggy** and **Researcher @ CSULB**
 
 <h2><span style="color: orange;">Skills</span></h2>
 
