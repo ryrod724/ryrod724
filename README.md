@@ -3,7 +3,7 @@
 - 🎓 Applied and Computational Mathematics student @ **Caltech**
 - 💻 Previous **Machine Learning Engineer @ Nuggy** and **Researcher @ CSULB**
 - 🧮 Current **Researcher @ Caltech**
-- 🧠 Upcoming **Researcher @ UC San Diego**
+- 🧠 Incoming **Researcher @ UC San Diego**
 
 
 <h2><span style="color: orange;">Skills</span></h2>
