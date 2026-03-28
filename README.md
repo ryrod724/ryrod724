@@ -6,7 +6,7 @@
 - 🧠 Incoming **Researcher @ UC San Diego**
 
 
-<h2><span style="color: orange;">Proficiencies</span></h2>
+<h2><span style="color: orange;">Skills</span></h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,r,matlab" />
