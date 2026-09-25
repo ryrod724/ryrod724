@@ -1,10 +1,7 @@
 <h2><span style="color: orange;">About Me</span></h2>
 
 - 🎓 Applied and Computational Mathematics Undergraduate @ **Caltech**
-- 💻 Previous **Machine Learning Engineer @ Nuggy**,
-- 🧮 Previous **Stochastic Processes Researcher @ CSULB**, **Graoh Theory Researcher @ Caltech**
-- 🧠 Current **Optimization/ML Researcher @ UC San Diego**
-
+- 🧮 Previous Research: **Stochastic Processes Research @ CSULB**, **Graph Theory Research @ Caltech**, **Optimization Research @ UCSD**
 
 <h2><span style="color: orange;">Skills</span></h2>
 
